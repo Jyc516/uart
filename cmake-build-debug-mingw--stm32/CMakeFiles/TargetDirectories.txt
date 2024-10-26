@@ -1,0 +1,3 @@
+D:/JiangYC/CLion_projects/uart/cmake-build-debug-mingw--stm32/CMakeFiles/uart.elf.dir
+D:/JiangYC/CLion_projects/uart/cmake-build-debug-mingw--stm32/CMakeFiles/edit_cache.dir
+D:/JiangYC/CLion_projects/uart/cmake-build-debug-mingw--stm32/CMakeFiles/rebuild_cache.dir
